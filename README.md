@@ -6,3 +6,5 @@ downloads & process webpages to construct a version of the dataset that contains
 For documentation of how to use this library, see the Wiki here: https://code.google.com/p/wiki-link/w/
 
 For any questions or issues, contact us at sameer@cs.umass.edu.
+
+modified for thrift2JSON conversion by Noam Cohen 2016
